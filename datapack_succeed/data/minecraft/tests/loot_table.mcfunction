@@ -1,6 +1,6 @@
 
 datapack disable vanilla
-datapack enable vanilla
+datapack enable vanilla first
 
 
 
